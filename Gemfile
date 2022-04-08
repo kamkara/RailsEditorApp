@@ -24,6 +24,11 @@ gem "turbo-rails"
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
 
+
+############  PROJET GEMS  ##################""
+gem "simple_form", "~> 5.1.0"
+
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
